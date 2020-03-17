@@ -1,5 +1,5 @@
-# contact_manager_v4
+# Contact Manager v4
 
-Offline Online Contact Manager Using Flutter
+Offline-Online Contact Manager Using Flutter
  
 Used Bloc design pattern to implement.
