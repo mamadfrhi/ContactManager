@@ -3,5 +3,6 @@
 Offline Online Contact Manager Using Flutter
  
  Used Bloc design pattern to implement.
- 
+
+A text from MAC 
  
